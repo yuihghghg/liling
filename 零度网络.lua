@@ -173,7 +173,7 @@ print("Anti Afk On")
 		   wait(1)
 		   vu:Button2Up(Vector2.new(0,0),workspace.CurrentCamera.CFrame)
 		end)
-local OrionLib = loadstring(game:HttpGet("https://raw.githubusercontent.com/yuihghghg/HBUI/main/HBUI.txt"))()
+local OrionLib = loadstring(game:HttpGet("https://raw.githubusercontent.com/yuihghghg/liling/main/HBUI.lua"))()
 
 Notification.Notify("B.A-力量", "  脚本本加载成功√  ", "rbxassetid://14454264094", {
     Duration = 3,       
